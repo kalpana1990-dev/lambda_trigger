@@ -1,0 +1,18 @@
+{
+	"transactions":[
+		{ 
+			"transtype": "PURCHASE", 
+			"amount": 20
+
+		},
+		{ 
+			"transType": "REFUND", 
+			"amount": 10
+
+		},
+		{ 
+			"transType": "DEMO", 
+			"amount": 5
+
+		}]
+}
